@@ -1,6 +1,6 @@
 # Console
 
-[Preview On web](https://kaushalbhatol.github.io/JavaScript/Module01/01_Console/index.html)
+[📺 Preview Attached Files](https://kaushalbhatol.github.io/JavaScript/Module01/01_Console/index.html)
 
 ## Basic Information
 
