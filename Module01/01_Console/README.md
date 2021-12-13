@@ -1,7 +1,5 @@
 # Console
 
-[📺 Preview Attached Files](https://kaushalbhatol.github.io/JavaScript/Module01/01_Console/index.html)
-
 ## Basic Information
 
 * Console are built in browser just by pressing `F12` key.
@@ -56,5 +54,5 @@ console.error('This is error'); // error
 
 ## attachments
 
-* [index.html](index.html)
+* [console.html](console.html)
 * [script.js](script.js)
