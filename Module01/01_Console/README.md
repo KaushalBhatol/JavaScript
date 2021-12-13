@@ -1,5 +1,7 @@
 # Console
 
+[Preview On web](https://kaushalbhatol.github.io/JavaScript/Module01/01_Console/index.html)
+
 ## Basic Information
 
 * Console are built in browser just by pressing `F12` key.
