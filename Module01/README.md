@@ -4,4 +4,5 @@
 
 Chapter     |   About
 ------------|-------------
-[Console](01_Console/README.md) | Basic console syntax and information
+[Console](Console/README.md) | Basic console syntax and information
+[Variables](Variables/README.md) | data type, const, let, var, case types
