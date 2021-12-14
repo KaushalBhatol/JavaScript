@@ -4,8 +4,8 @@
 
 ## attachment
 
-* [Variables.html][Variables.html]
-* [script.js]
+* [Variables.html](Variables.html)
+* [script.js](script.js)
 
 ## Rules for creating variables
 
