@@ -9,4 +9,4 @@
 
 Module No   |   Content
 ------------|--------------
-[Module 01](Module01/README.md) | console
+[Module 01](Module01/README.md) | console, Variables
