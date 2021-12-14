@@ -2,6 +2,11 @@
 
 * Moder java use let and const instead of var, for making code more readable.
 
+## attachment
+
+* [Variables.html][Variables.html]
+* [script.js]
+
 ## Rules for creating variables
 
 1. can not start with number.
