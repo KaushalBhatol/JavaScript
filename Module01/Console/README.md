@@ -6,6 +6,12 @@
 * Console are very useful for finding javaScript errors.
 * You can also use console to tweak websites from client site.
 
+### attachments
+
+* [console.html](console.html)
+* [script.js](script.js)
+
+
 ## Console Basic Syntax
 
 ### Simple log on console window.
@@ -52,7 +58,3 @@ console.warn('This is warnning'); // Warning
 console.error('This is error'); // error
 ```
 
-## attachments
-
-* [console.html](console.html)
-* [script.js](script.js)
